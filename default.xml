@@ -18,7 +18,7 @@
   <project name="platform/build" path="build" revision="a7e72e17dfed8adf5905ccc1b0245460727f53aa">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="27e65e506369aa7eaca3e92a77631af63079ebd6"/>
+  <project name="platform/dalvik" path="dalvik" revision="99409883d9c4c0ffb49b070ce307bb33a9dfe9f1"/>
   <project name="platform/development" path="development" revision="6ffae015b46e04c31668def201cd1b022a1dcac1"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
@@ -79,7 +79,7 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="280cf4827c37fe3dd0f038536d28833154517e92"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="40c4004d07a37a9b140067f893930ce4436b9346"/>
   <project name="platform/external/zlib" path="external/zlib" revision="9e38dfa2f95fce609707a0941f10af9a785288de"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="c2ad241504fcaa12d4579d3b0b4038d1ca8d08c9"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="105925376f8d0f6b318c9938c7b83ef7fef094da"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="5e828edf360883f2db12bdf781bae15112385748"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="8dc534239a7b260e1ab2e64d60726ab9ec43f5f1"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
