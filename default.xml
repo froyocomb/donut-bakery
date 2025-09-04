@@ -18,7 +18,7 @@
   <project name="platform/build" path="build" revision="a7e72e17dfed8adf5905ccc1b0245460727f53aa">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="99409883d9c4c0ffb49b070ce307bb33a9dfe9f1"/>
+  <project name="platform/dalvik" path="dalvik" revision="27e65e506369aa7eaca3e92a77631af63079ebd6"/>
   <project name="platform/development" path="development" revision="6ffae015b46e04c31668def201cd1b022a1dcac1"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
@@ -123,7 +123,7 @@
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="865b14b5faf8df8c090efa181ee5c5641f362fc9"/>
   <project name="platform/prebuilt" path="prebuilt" revision="9e5e5c06d2218c0a17b515ac95d06c1cee1fb824"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
-  <project name="platform/system/core" path="system/core" revision="f614d64d4b4dfcd20c77ac3ccf2d9c9090a49303"/>
+  <project name="platform/system/core" path="system/core" revision="01161168aa87ea9f1513d2b7b1232521c84e1ea4"/>
   <project name="platform/system/extras" path="system/extras" revision="26aaac4bf942c4f51de0f10ea85edf9751c234c8"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="6f4d4701e9ed8767b70203a0f6348dc5cf5f9f0c"/>
 
