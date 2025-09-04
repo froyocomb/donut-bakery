@@ -17,7 +17,6 @@
   <project name="platform/build" path="build" revision="bafa6ddfc5b6c02a6dc8c4b2bdabd2882b1e909d">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project path="external/dosfstools" name="platform/external/dosfstools" revision="cbb96659ea274f612c178abcf3abe8de4298e55f"/>
   <project name="platform/dalvik" path="dalvik" revision="742daa3d55ef09ec443fea5decaa991857b67a52"/>
   <project name="platform/development" path="development" revision="f934a160fdf11489b8a6f7ec6beb55fb0c009cbb"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
@@ -29,9 +28,9 @@
   <project name="platform/external/clearsilver" path="external/clearsilver" revision="1bfc7cdbff6058952c56277e1b457e4134451159"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ae35d9c7cda6a436e81c7be962963aa31596f645"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="225d86187346fec1e74ccbaafe0cab0778c09e54"/>
+  <project name="platform/external/dosfstools" path="external/dosfstools" revision="cbb96659ea274f612c178abcf3abe8de4298e55f"/>
   <project name="platform/external/dropbear" path="external/dropbear" revision="f7fc46c63fdc8f39234fea409b8dbe116d73ebf8"/>
   <project name="platform/external/e2fsprogs" path="external/e2fsprogs" revision="9830b1d6663facd9f7e4ab54ee1a642cf0ed89a9"/>
-  <project path="external/eglib" name="platform/external/eglib" revision="9830b1d6663facd9f7e4ab54ee1a642cf0ed89a9"/>
   <project name="platform/external/elfcopy" path="external/elfcopy" revision="abcc91aef86a24b0b4f487267765cc40e6fb073e"/>
   <project name="platform/external/elfutils" path="external/elfutils" revision="441f72d43a9b550baa779fc82f70816da5f74f0e"/>
   <project name="platform/external/embunit" path="external/embunit" revision="0bea8c49ca8726e4da085bf6cfff41c06aef20e7"/>
@@ -82,6 +81,7 @@
   <project name="platform/frameworks/base" path="frameworks/base" revision="ca783b947a2533cb81839ddbd91847255e3abd9d"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="5e828edf360883f2db12bdf781bae15112385748"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="8dc534239a7b260e1ab2e64d60726ab9ec43f5f1"/>
+  <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="3189082436bc63c71ed4bf9acbc4db14ff473faf"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="65f2d3aeee4a3179fe662e8f7cabce0a3e29a325"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="e18b7b21c2fe0788e6cf1a1a055a25c2e5bc2dd8"/>
