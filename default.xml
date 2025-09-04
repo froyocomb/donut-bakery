@@ -110,7 +110,7 @@
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="a200a9bff75130b1d79d505c6770f3132f8499bd"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="7b3b414976b6b3d6d85459de79e843d5ab35ed06"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="a48e5d04d39da396156925cb4a78f751c9dbf59e"/>
-  <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="03fc4eb054c92fe36bca63177326b9f0cd29135b"/>
+  <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="76fee8e66e0b3ea9623444b535f121db0bd62706"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="496f051b28759df3d55afd6d617b5e65468b87e3"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="3652983997b8c05d9c11e83ef29b02fe68957e5e"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="3bfb598871a45a3ba9a9245e33023b35dcdf5bd0"/>
