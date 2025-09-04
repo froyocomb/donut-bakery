@@ -82,6 +82,7 @@
   <project name="platform/frameworks/base" path="frameworks/base" revision="105925376f8d0f6b318c9938c7b83ef7fef094da"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="5e828edf360883f2db12bdf781bae15112385748"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="8dc534239a7b260e1ab2e64d60726ab9ec43f5f1"/>
+  <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="4eba15568959633a97ecd6e50ecc0541e3a69de5"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="65f2d3aeee4a3179fe662e8f7cabce0a3e29a325"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="e18b7b21c2fe0788e6cf1a1a055a25c2e5bc2dd8"/>
