@@ -14,7 +14,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="cf5b17055b1276c187537cf5a054cf6ebe753113"/>
-  <project name="platform/build" path="build" revision="bafa6ddfc5b6c02a6dc8c4b2bdabd2882b1e909d">
+  <project name="froyocomb/platform_build" path="build" remote="github" revision="donut-Mar24-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/dalvik" path="dalvik" revision="742daa3d55ef09ec443fea5decaa991857b67a52"/>
@@ -126,3 +126,4 @@
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="28334f5ebb2cb84d2901109f1559a6d12f0cb4ab"/>
 
 </manifest>
+
