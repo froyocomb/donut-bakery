@@ -10,7 +10,6 @@
   <default revision="master"
            remote="aosp"
            sync-j="4" />
-  <project name="kernel/common" path="kernel" revision="0660cc5f8f432b3908ae0b669a8e3c2de3f37366"/>
   <project name="platform/bionic" path="bionic" revision="3e16f84fcad103c97a2df4a58948835277043569"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
