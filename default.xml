@@ -17,7 +17,7 @@
   <project name="froyocomb/platform_build" path="build" remote="github" revision="donut-Mar24-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="742daa3d55ef09ec443fea5decaa991857b67a52"/>
+  <project name="froyocomb/platform_dalvik" path="build" remote="github" revision="donut-bakery-Mar24-fix"/>
   <project name="platform/development" path="development" revision="f934a160fdf11489b8a6f7ec6beb55fb0c009cbb"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
@@ -126,4 +126,5 @@
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="28334f5ebb2cb84d2901109f1559a6d12f0cb4ab"/>
 
 </manifest>
+
 
