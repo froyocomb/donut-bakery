@@ -7,9 +7,9 @@ As of now, the following builds have been reconstructed:
 
 | Build ID & manifest branch               | Status              |
 | :--------------------------------------: | :-----------------: |
-| [`March 18 2009 build`]                  | Work in progress    |
-| [`March 24 2009 build`]                  | Work in progress    |
-| [`May 14 2009 build`]                    | Work in progress    |
+| [`March 18 2009 build`]                  | Done                |
+| [`March 24 2009 build`]                  | Done                |
+| [`May 14 2009 build`]                    | Done                |
 
 [`March 18 2009 build`]: https://github.com/froyocomb/donut-bakery/tree/MASTER-20090318
 [`March 24 2009 build`]: https://github.com/froyocomb/donut-bakery/tree/MASTER-20090324
