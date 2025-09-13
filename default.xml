@@ -138,7 +138,7 @@
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="40c4004d07a37a9b140067f893930ce4436b9346"/>
   <!-- RTM -->
   <project name="platform/external/zlib" path="external/zlib" revision="a64e4eaf41f9520f60051b758fb27f98e72d85ea"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="4890feb048e4f0510c577babe3bfd08521a3996b"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="1f2bb46b9a2762a6f57ca8801d91e9dee002158f"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="66667e4b38ed7706faebfbcfa5a4c15b677d6c74"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="fa5f65b43467226982b1f3208b437454a60a5565"/>
   <!-- RTM -->
@@ -190,7 +190,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="9994e70ef353792971e954fd79dd7e3ac04643b1"/>
   <!-- RTM -->
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
-  <project name="platform/system/core" path="system/core" revision="5c49135b032235f82560d5e55b0e4c547506516b"/>
+  <project name="platform/system/core" path="system/core" revision="eefef3234ae1e3b0f2db71415f134c7ec49899fa"/>
   <project name="platform/system/extras" path="system/extras" revision="360efc12dcfece46e5999505bd8042cba56a4289"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="80908ea476c8520bf401114876b4dfb93ae3e395"/>
   <project path="vendor/htc/dream-open" name="platform/vendor/htc/dream-open" revision="2c2e915188fd16190b72398edb2dbaedf6bcb3b1"/>
