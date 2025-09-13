@@ -27,8 +27,7 @@
   <project name="platform/external/astl" path="external/astl" revision="9cb0478662a7c988146fff0d868bba2839ea80f2"/>
   <!-- RTM -->
   <project name="platform/external/bison" path="external/bison" revision="cea198a11f15a2eb071d98491ca9a8bc8cebfbc4"/>
-  <!-- RTM -->
-  <project name="platform/external/bluez" path="external/bluez" revision="cb75ad7a5a708a6a1f593cddb745f1c0460676c6"/>
+  <project name="platform/external/bluez" path="external/bluez" revision="5c4a7a53067d815f515ba8b079244c17a2fc4f4c"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="c285feace7a051368d4c5069cc6e0f30cd769f0d"/>
   <!-- RTM -->
   <project name="platform/external/bzip2" path="external/bzip2" revision="bd8bc6011ac10774f98d61c0f539f0f4e6f14c99"/>
@@ -151,7 +150,7 @@
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="71433e2a072f0c27f1233f7e768670512161ad46"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5ad00c6691f46e81a4c1611d0ccc351beed98508"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="ff8693ab50a9ed78ee816361c628969752127e9d"/>
-  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="00c6bfab0ea2e2af6ed10af0b740fcef36adda98"/>
+  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="304f1d21f75832021d64e424bd5600a4d3e3c706"/>
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="19e134e494a561324394fcc030ee8e30bb41c614"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="2caac5d21727c19e15db4deb37bd84f0aed6947b"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="27fbe1c16dc481bd58738128e2c0a1bffb76a5d5"/>
