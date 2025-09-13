@@ -167,7 +167,7 @@
   <!-- RTM -->
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1bc128fd4266656ebc7e8abc6bf22652f6a6134a"/>
-  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="a34f686112fb4f9fbea00b8c2c47153d34e93e41"/>
+  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="01068708205a9621649d81fa445ae422062b2bbf"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="2f0d358620cc52a80885fa812205b153f5600df7"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="d8e2033d3f44e708f4fb5cfa4fc4f57485860191"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="debc51233f0b2f3de06c494319fdab00585ad31e"/>
