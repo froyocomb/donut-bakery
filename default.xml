@@ -18,7 +18,7 @@
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
   <!-- RTM -->
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="20697b965cd923211daeea2037f60218358b9659"/>
-  <project name="platform/build" path="build" revision="85eff1306ed3206da5b16775906feaf55da07ab1">
+  <project name="froyocomb/platform_build" path="build" remote="github" revision="donut-DRC34-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/dalvik" path="dalvik" revision="bd79e4498465381117f2cbc6399a256061f1d144"/>
