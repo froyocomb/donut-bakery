@@ -150,7 +150,7 @@
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="71433e2a072f0c27f1233f7e768670512161ad46"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5ad00c6691f46e81a4c1611d0ccc351beed98508"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="ff8693ab50a9ed78ee816361c628969752127e9d"/>
-  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="00c6bfab0ea2e2af6ed10af0b740fcef36adda98"/>
+  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="28d694a0416e499f86e9d9aca1e5e28bfd996b71"/>
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="19e134e494a561324394fcc030ee8e30bb41c614"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="2caac5d21727c19e15db4deb37bd84f0aed6947b"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="27fbe1c16dc481bd58738128e2c0a1bffb76a5d5"/>
