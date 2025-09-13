@@ -190,7 +190,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="9994e70ef353792971e954fd79dd7e3ac04643b1"/>
   <!-- RTM -->
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
-  <project name="platform/system/core" path="system/core" revision="eefef3234ae1e3b0f2db71415f134c7ec49899fa"/>
+  <project name="platform/system/core" path="system/core" revision="5c49135b032235f82560d5e55b0e4c547506516b"/>
   <project name="platform/system/extras" path="system/extras" revision="360efc12dcfece46e5999505bd8042cba56a4289"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="80908ea476c8520bf401114876b4dfb93ae3e395"/>
   <project path="vendor/htc/dream-open" name="platform/vendor/htc/dream-open" revision="2c2e915188fd16190b72398edb2dbaedf6bcb3b1"/>
