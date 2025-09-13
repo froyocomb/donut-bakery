@@ -196,7 +196,7 @@
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="a0316493881ad09b647a4198952f2880003b8d37"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="5eab8c543cfdfae0a1f18742e4e026bdaa948eaa"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="0802a0da4c293ecfc4f584a6fff2f1e1129ab9e2"/>
-  <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="d3403254c3a290b6a68804c36c6876cb3787ec15"/>
+  <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="a14633f29d49ed37ba3f690a7b9ceed002992b84"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="442d2af78114e3692586b12e07e0eaf6b173fb9f"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="c615896354572e09a9a5dd96226204a2782a9386"/>
   <project name="platform/packages/providers/GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="57e915b486f2771424f14555779def081b1240ff"/>
