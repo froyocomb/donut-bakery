@@ -3,17 +3,25 @@ donut-bakery: Donut Restoration Project
 
 This repository contains reconstructed `repo` manifests of known Android 1.6 ("Donut / Donut Burger") builds to be available via AOSP.
 
-As of now, the following builds have been reconstructed:
+All of the planned builds have been reconstructed:
 
 | Build ID & manifest branch               | Status              |
 | :--------------------------------------: | :-----------------: |
 | [`March 18 2009 build`]                  | Done                |
 | [`March 24 2009 build`]                  | Done                |
 | [`May 14 2009 build`]                    | Done                |
+| [`June 17 2009 build`]                   | Done                |
+| [`DRC06`]                                | Done                |
+| [`DRC34`]                                | Done                |
+| [`DRC52`]                                | Done                |
 
 [`March 18 2009 build`]: https://github.com/froyocomb/donut-bakery/tree/MASTER-20090318
 [`March 24 2009 build`]: https://github.com/froyocomb/donut-bakery/tree/MASTER-20090324
 [`May 14 2009 build`]: https://github.com/froyocomb/donut-bakery/tree/MASTER-20090514
+[`June 17 2009 build`]: https://github.com/froyocomb/donut-bakery/tree/MASTER-20090617
+[`DRC06`]: https://github.com/froyocomb/donut-bakery/tree/DRC06
+[`DRC34`]: https://github.com/froyocomb/donut-bakery/tree/DRC34
+[`DRC52`]: https://github.com/froyocomb/donut-bakery/tree/DRC52
 
 Preparing a Build Environment
 -----------------
